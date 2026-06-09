@@ -4,3 +4,7 @@ Notas iniciales del proyecto
 Cambio realizado desde la computadora 2
 
 Cambio realizado en la rama nueva-rama
+
+
+Cambio diferente desde nueva-rama
+
